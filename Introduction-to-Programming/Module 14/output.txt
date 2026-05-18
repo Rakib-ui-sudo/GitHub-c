@@ -1,0 +1,4 @@
+abs->21
+ceil->5
+floor->4
+round->3
